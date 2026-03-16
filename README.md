@@ -4,10 +4,10 @@ IT Support & Cybersecurity professional based in Brisbane, Australia. Focused on
 
 ## Certifications
 
-![CDSA](https://img.shields.io/badge/HTB-CDSA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![AWS Developer](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS SA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CDSA](https://img.shields.io/badge/HTB-CDSA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white) <br>
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white) <br>
+![AWS Developer](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) <br>
+![AWS SA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) <br>
 
 ## Skills
 
