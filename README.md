@@ -1,6 +1,7 @@
 # Hi, I'm Kud
 
-Defensive security and IT support practitioner based in **Brisbane, QLD, Australia**. **Australian Permanent Resident** — full working rights, open to on-site, hybrid, and remote roles across Australia (including APS).
+Defensive security and IT support practitioner based in **Australia**.
+- full working rights, open to on-site, hybrid, and remote roles across Australia (including APS).
 
 Focus areas: SOC operations, SIEM detection engineering, incident investigation, Active Directory security, and end-user support across Windows, Linux, and macOS.
 
